@@ -11,23 +11,23 @@ To develop a python control code to move the mobilerobot along the predefined pa
 
 Step1:
 
-<br/>
+Take the Ep core robot insert the battery and check the battery percentage
 
 Step2:
 
-<br/>
+Turn on the robot and connect the robot to the computer through WIFI
 
 Step3:
 
-<br/>
+Open visual studio and import robomaster package and do all the code
 
 Step4:
 
-<br/>
+Take the measurment of the track on each and every turn and gives the valuse through code in (m)
 
 Step5:
 
-<br/>
+run the program to see the robot movement
 
 ## Program
 ```from robomaster import robot
@@ -97,11 +97,13 @@ if __name__=='__main__':
 
 Insert image here
 
+![out1](https://github.com/Ashwathm12/mobilerobot-openloopcontrol/assets/138849225/58182987-b17e-4187-8b71-c2a17dd55109)
 
-<br/>
-<br/>
-<br/>
-<br/>
+![out2](https://github.com/Ashwathm12/mobilerobot-openloopcontrol/assets/138849225/d3e23ecf-d9c7-4965-abe8-e1a31cb850e2)
+
+![out3](https://github.com/Ashwathm12/mobilerobot-openloopcontrol/assets/138849225/e7d2f998-b1d7-4acb-a04e-277cf571cf81)
+
+
 
 ## MobileRobot Movement Video:
 
