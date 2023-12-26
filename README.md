@@ -95,7 +95,6 @@ if __name__=='__main__':
 
 ![robo](./img/robomaster.png)
 
-Insert image here
 
 ![out1](https://github.com/Ashwathm12/mobilerobot-openloopcontrol/assets/138849225/58182987-b17e-4187-8b71-c2a17dd55109)
 
